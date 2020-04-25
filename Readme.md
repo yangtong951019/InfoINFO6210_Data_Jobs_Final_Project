@@ -5,6 +5,7 @@
 
 ### Tong Yang 001302930
 ### Minghao Ru 001088106
+#### Portfolio github link:https://github.com/yangtong951019/InfoINFO6210_Data_Jobs_Final_Project
 
 
 [![N|Solid](https://www.glassdoor.com/blog/app/uploads/sites/2/glassdoor-offices-chicago-valerio-dewalt-train-associates-8-700x462.jpg)]
